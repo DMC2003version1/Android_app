@@ -1,0 +1,13 @@
+npm install -g @ionic/cli
+
+npm install @capacitor/core @capacitor/cli
+npm install @capacitor/android
+
+npm run build
+npx cap copy
+npx cap open android
+
+npm install @vitejs/plugin-vue --save-dev
+
+
+ionic capacitor build android

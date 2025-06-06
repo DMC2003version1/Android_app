@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.app",
+  "appName": "myApp",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "allowNavigation": [
+      "http://192.168.0.32:8000",
+      "http://localhost",
+      "http:/10.0.2.2:8000"
+    ]
+  }
+}
+

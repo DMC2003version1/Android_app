@@ -1,0 +1,9 @@
+Django
+djangorestframework
+django-cors-headers
+Pillow
+psycopg2
+gunicorn
+PyJWT==2.8.0
+cryptography
+numpy==1.23.5
